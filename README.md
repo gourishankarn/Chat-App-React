@@ -9,7 +9,7 @@ Go to backend folder, run npm install to install all dependencies. After install
 
 ## To run client
 
-Go to lcotodo folder, run npm install to install all dependencies. After installing dependecies run, (npm start), it will run react app on default port 3000
+Go to frontend folder, run npm install to install all dependencies. After installing dependecies run, (npm start), it will run react app on default port 3000
 
 
 # Chatroom Application
