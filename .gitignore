@@ -1,0 +1,6 @@
+#dependencies
+/backend/node_modules
+/lcotodo/node_modules
+/Chat-Room/client/node_modules
+/Chat-Room/server/node_modules
+

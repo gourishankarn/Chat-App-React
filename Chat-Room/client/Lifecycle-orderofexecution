@@ -1,0 +1,7 @@
+constructor
+getDerivedStateFromProps
+render
+componentDidMount
+
+so componentDidMount execute after render() method
+
